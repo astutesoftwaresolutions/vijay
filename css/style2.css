@@ -73,9 +73,20 @@
 	height: 320px;
 	object-fit: cover;
 }
+.num-m a{
+        border-radius: 5px !important;
+        background-color: #3b5998 !important;
+        border: none;
 
+}
+.edit-btn a{
+        border-radius: 5px !important;
+        background-color: #3b5998 !important;
+        border: none;
+        
+}
 
-	@media(max-width:576px) {
+	@media(max-width:768px) {
   		
   		.num-m a{
   			margin-bottom: 10px;
