@@ -41,7 +41,7 @@ header .navbar-brand {
 header .navbar {
   padding-top: 0;
   padding-bottom: 0;
-  background: transparent !important;
+  /*background: transparent !important;*/
 }
 
 @media (max-width: 991.98px) {
