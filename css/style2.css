@@ -75,7 +75,7 @@
 }
 
 
-	@media (min-width: 481px) and (max-width: 767px) {
+	@media(max-width:576px) {
   		
   		.num-m a{
   			margin-bottom: 10px;
